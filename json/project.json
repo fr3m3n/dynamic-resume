@@ -18,8 +18,8 @@
     {
         "title": "Front-end Coding Challenge #3",
         "subtitle": "  HealthCare Web App",
-        "description": "This coding challenge involves building a HealthCare Web Application that showcases your front-end development skills. The project focuses on creating an interactive and responsive web application related to the healthcare domain. It incorporates features such as displaying dentists' information, allowing users to contact the company, marking dentists as favorites, and switching between light and dark themes. The challenge highlights various aspects of front-end development, including state management, API integration, routing, form handling, and theming.",
-        "tag": "#HealthCareWebApp, #InteractiveUI, #FrontEndDevelopment ",
+        "description": "This coding challenge involves building a HealthCare Web Application using React and Vite that showcases your front-end development skills. The project focuses on creating an interactive and responsive web application related to the healthcare domain. It incorporates features such as displaying dentists' information, allowing users to contact the company, marking dentists as favorites, and switching between light and dark themes. The challenge highlights various aspects of front-end development, including state management, API integration, routing, form handling, and theming.",
+        "tag": "#HealthCareReactVite, #InteractiveHealthWebApp, #FrontEndDevChallenge ",
         "gitRef": " https://github.com/fr3m3n/ctd-esp-fe3-final",
         "dev": "dev"
     },      
